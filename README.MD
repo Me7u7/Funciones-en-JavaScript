@@ -1,0 +1,2 @@
+Se hicieron varios ejercicios de funciones en JavaScript, además de un ejercicio que engloba lo visto en clase hasta ahora. 
+El ejercicio "libro.js" se ejecuta en una página html en una ventana emergente.
